@@ -1,5 +1,5 @@
 {
-  "name": "23633961_nguyencongtuyen_nhom3_tuan2",
+  "name": "nguyencongtuyen_23633961_n3_tuan3",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -9,7 +9,6 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "axios": "^1.20.0",
     "expo": "~54.0.36",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
