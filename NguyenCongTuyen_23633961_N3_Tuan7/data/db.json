@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn Tèo",
+      "email": "teo@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Công Tuyến",
+      "email": "tuyen@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Lập trình",
+      "pages": 464,
+      "rating": 5,
+      "cover": "https://picsum.photos/seed/book1/300/400",
+      "available": true
+    },
+    {
+      "id": "2",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "genre": "Lập trình",
+      "pages": 352,
+      "rating": 5,
+      "cover": "https://picsum.photos/seed/book2/300/400",
+      "available": true
+    },
+    {
+      "id": "3",
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "genre": "Lập trình",
+      "pages": 448,
+      "rating": 4,
+      "cover": "https://picsum.photos/seed/book3/300/400",
+      "available": true
+    },
+    {
+      "id": "4",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Kỹ năng sống",
+      "pages": 320,
+      "rating": 5,
+      "cover": "https://picsum.photos/seed/book4/300/400",
+      "available": true
+    },
+    {
+      "id": "5",
+      "title": "Đắc Nhân Tâm",
+      "author": "Dale Carnegie",
+      "genre": "Kỹ năng sống",
+      "pages": 320,
+      "rating": 4,
+      "cover": "https://picsum.photos/seed/book5/300/400",
+      "available": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "bookId": "1",
+      "userId": "1",
+      "userName": "Nguyễn Văn An",
+      "rating": 5,
+      "comment": "Sách rất hay!"
+    },
+    {
+      "id": "2",
+      "bookId": "1",
+      "userId": "2",
+      "userName": "Trần Thị Bình",
+      "rating": 4,
+      "comment": "Nội dung dễ hiểu."
+    }
+  ]
+}
